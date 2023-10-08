@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "663696450980",
+    "project_id": "crud-op-flutter",
+    "storage_bucket": "crud-op-flutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:663696450980:android:92ecd7b8482f7110b14d31",
+        "android_client_info": {
+          "package_name": "com.example.crud_op_flutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpL98Wh04PTkNApmvDimsCGTiKQrHNm-w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
